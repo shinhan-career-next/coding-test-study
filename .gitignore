@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Visual Studio Code
+.vscode/
+
+# Java / Gradle
+.gradle/
+build/
+target/
+*.class
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+!.env.example
